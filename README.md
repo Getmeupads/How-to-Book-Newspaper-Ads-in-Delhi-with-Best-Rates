@@ -85,15 +85,15 @@ Here's an example of a classified ad format for a newspaper ad booking in Delhi:
 
 Costs depend on the type, size, and placement. Contact Get Me Up Advertising to book your ad now! +91–9810974532
 
-<b>How do I book a newspaper ad in Delhi online?<b/>
+<b>How do I book a newspaper ad in Delhi online?</b>
 
 Use online platforms like Get Me Up Advertising to select the newspaper, ad type, and place your order with ease.
 
-<b>Can I book an ad for a specific Delhi area?<b/>
+<b>Can I book an ad for a specific Delhi area?</b>
 
 Yes, many newspapers offer regional ad placement, allowing you to target specific areas in Delhi.
 
-<b>What is the deadline for booking a newspaper ad?<b/>
+<b>What is the deadline for booking a newspaper ad?</b>
 
 Deadlines are usually 2–7 days before the publication date.
 
@@ -121,7 +121,7 @@ Classified ads are text-based and cheaper, while display ads are larger and more
 
 No, classified ads are typically text-only, but display ads allow for images and graphics.
 
-<b>Is there a word limit for classified ads?<b/>
+<b>Is there a word limit for classified ads?</b>
 
 Yes, classified ads typically have a word limit, usually around 50–75 words.
 
